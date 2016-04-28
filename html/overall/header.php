@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="views/socicon/css/socicon.min.css">
   <link rel="stylesheet" href="views/mobirise/css/style.css">
   <link rel="stylesheet" href="views/mobirise/css/mbr-additional.css" type="text/css">
-  <link rel="stylesheet" href="views/fontawesome/css/font.css" type="text/css">
+  <link rel="stylesheet" href="views/fontawesome/css/fonts.css" type="text/css">
 
-  <title>OcrendBB</title>
+  <title><?php echo APP_TITLE ?></title>
 </head>
